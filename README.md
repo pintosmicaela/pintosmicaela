@@ -61,6 +61,6 @@
 ### 🎮 Endless runner
 
 - A short and simple game designed to demonstrate the essential features of an Endless Runner. Developed with Unity.
-  - Github:
+  - Github: <a href="https://github.com/pintosmicaela/endless-runner-to-explain"> Repositorio</a>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0379.gif" width="1920" height=0.5/>
