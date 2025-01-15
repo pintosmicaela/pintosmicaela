@@ -38,11 +38,29 @@
 
 ### 💻 Portfolio
 
-### 📱 IAP
+- My portfolio is built with JavaScript, with React for the frontend and Node.js for the backend.
+  - Webpage:
+  - Github:
 
-### 📷 Procesamiento de imagenes
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0379.gif" width="1920" height=0.5/>
+
+### 📱 Application engineering
+
+- Final Project: A graphic novel game designed for mobile devices, developed with Unity and utilizing design patterns.
+  - Github:
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0379.gif" width="1920" height=0.5/>
+
+### 📷 Image processing
+
+- Final Project: The objectives are to detect the horizon line, rotate the image to align with it, and identify different types of cookies within the image. Made with Octave.
+    - Github:
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0379.gif" width="1920" height=0.5/>
 
 ### 🎮 Endless runner
 
+- A short and simple game designed to demonstrate the essential features of an Endless Runner. Developed with Unity.
+  - Github:
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0379.gif" width="1920" height=0.5/>
