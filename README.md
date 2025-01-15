@@ -1,3 +1,8 @@
+<a href="https://github.com/pintosmicaela/pintosmicaela/blob/main/banner.gif">
+  <img src="https://github.com/pintosmicaela/pintosmicaela/blob/main/banner.gif" alt="Banner GIF" width="1920" height="auto"/>
+</a>
+
+
 <div align="center">
   <h1 align="center">Hi, I'm <a href="https://micapintos.online">Micaela Pintos</a> 👋</h1>
 </div>
