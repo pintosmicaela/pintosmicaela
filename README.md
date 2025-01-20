@@ -39,7 +39,7 @@
 ### 💻 Portfolio
 
 - My portfolio is built with JavaScript, with React for the frontend and Node.js for the backend.
-  - Webpage: <a href="micapintos.online"> My portfolio</a> 💛
+  - Webpage: <a href="https://micapintos.online"> My portfolio</a> 💛
   - Github: <a href="https://github.com/pintosmicaela/img-processing-final"> Repository</a>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0379.gif" width="1920" height=0.5/>
