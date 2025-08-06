@@ -21,8 +21,8 @@
 ## <img align="center" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35"/> Languages & tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,jquery,react,ts,nodejs,php "/><br>
-  <img src="https://skillicons.dev/icons?i=firebase,py,mysql,octave,c,java,unity,github,latex" /><br>
+  <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,jquery,c,ts,docker,php,redhat "/><br>
+  <img src="https://skillicons.dev/icons?i=firebase,py,mysql,octave,react,java,unity,github,latex,nodejs" /><br>
 </div>
 
 ## ⚙️&nbsp;GitHub Analytics
