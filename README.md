@@ -14,15 +14,31 @@
   <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" /></a>
   <a href="https://linkedin.com/in/mlpintos">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://micapintos.online">
-  <img src="https://img.shields.io/badge/webpage-gold?style=for-the-badge&color=gold" alt="Webpage" />
 </div>
 
 ## <img align="center" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35"/> Languages & tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,jquery,c,ts,docker,php,redhat "/><br>
-  <img src="https://skillicons.dev/icons?i=firebase,py,mysql,octave,react,java,unity,github,latex,nodejs" /><br>
+  <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/programming%20languages/c.svg" alt="C language" height="50" width="50" />
+  <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/programming%20languages/java.svg" alt="java" height="50" width="50" />
+  <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/programming%20languages/javascript.svg" alt="javascript" height="50" width="50" />
+  <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/programming%20languages/php.png" alt="php" height="50" width="50" />
+  <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/programming%20languages/python.svg" alt="python" height="50" width="50" />
+  <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/others/git.svg" alt="git" height="50" width="50" />
+  <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/others/html.svg" alt="html" height="50" width="50" />
+  <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/others/json.svg" alt="json" height="50" width="50" />
+  <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/others/npm.svg" alt="npm" height="50" width="50" />
+  <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/frameworks/boostrap.svg" alt="boostrap" height="50" width="50" /> <br>
+  <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/frameworks/django.svg" alt="django" height="50" width="50" /> 
+  <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/frameworks/jquery.svg" alt="jquery" height="50" width="50" /> 
+  <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/frameworks/nodejs.svg" alt="nodejs" height="50" width="50" />
+  <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/frameworks/react.svg" alt="react" height="50" width="50" />
+  <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/databases/mysql.svg" alt="mysql" height="50" width="50" />
+  <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/cloud/bitbucket.svg" alt="bitbucket" height="50" width="50" />
+  <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/cloud/docker.svg" alt="docker" height="50" width="50" />
+  <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/cloud/firebase.svg" alt="firebase" height="50" width="50" />
+  <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/cloud/github.svg" alt="github" height="50" width="50" />
+  <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/62487087dc4f4f5efee637addbc67a16dd374bf6/text%20editors/vscode.svg" alt="vscode" height="50" width="50" /> <br>
 </div>
 
 ## ⚙️&nbsp;GitHub Analytics
